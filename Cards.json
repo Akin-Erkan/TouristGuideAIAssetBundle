@@ -3,42 +3,42 @@
     "CardId": 1,
     "Points": 10,
     "Name": "Apple",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478465-f8b49106-74e1-455d-9e11-923c930cb367.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NjUtZjhiNDkxMDYtNzRlMS00NTVkLTllMTEtOTIzYzkzMGNiMzY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwOTE3NmJlNWRkYjAxY2JhZTNiZGE3ZmY4ZDIzZjIwNzE0NDUxMmI4ZWNlMjE1YjI5MmI1MTE2YzE4NzllZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.89EPkaKmqoRnBDYninlt062aYtsczRnEksbCP8dR6z8"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/apple.png"
   },
   {
     "CardId": 2,
     "Points": 15,
     "Name": "Bell",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478453-257ec79a-95c7-42e7-b21b-0ef659a97732.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NTMtMjU3ZWM3OWEtOTVjNy00MmU3LWIyMWItMGVmNjU5YTk3NzMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMWIxYTQzOTAyMTk0ZTM0YjA4MTA0MDAyYTBkY2ZjMTY4ZjFiNzQ2MTFmZGU5ZDk3ZTY0YjljYzExMGRmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UtRuRFi-WZn0QAPs1km-rQ2JgXuAtS0Z3cgPOV3Bwfk"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/bell.png"
   },
   {
     "CardId": 2,
     "Points": 15,
     "Name": "Cherry",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478455-d563a3ba-ca4d-44c6-8e0a-1fc209734350.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NTUtZDU2M2EzYmEtY2E0ZC00NGM2LThlMGEtMWZjMjA5NzM0MzUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2MDIxZTEzZDRkNTA5N2ZjMTU2Mjg0NDk1YWZkY2E2NDEwNDczZGE0MzRhZDYxNzAxZTg5MGYwYWFhMTU3MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KbgVf0fH75MzXJrXfnZMRJ-CAbBKMN5RuH4Q0eHJzVU"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/cherry.png"
   },
   {
     "CardId": 3,
     "Points": 15,
     "Name": "Dolphin",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478466-1d6ab933-a9ac-4847-9709-c56385f23e7e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NjYtMWQ2YWI5MzMtYTlhYy00ODQ3LTk3MDktYzU2Mzg1ZjIzZTdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmYzI2Njk2NWZlZmM1ZTFmYjJlNWIzYTY5NDJjM2ZjODVjZDM3MTBhMGRiNWEwN2JmN2RmNDM4NWZiMjZlZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UaoRBc76b3XhgcOAJcsnvqWMhgd1V_kI6GV-Ia9EXZU"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/dolphin.png"
   },
   {
     "CardId": 4,
     "Points": 15,
     "Name": "Ice-cream",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478456-b670cd06-4a13-4503-a0ed-5ecae855ca18.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NTYtYjY3MGNkMDYtNGExMy00NTAzLWEwZWQtNWVjYWU4NTVjYTE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNDFmN2QyOTA4NDIyYTE1ODQ5MTM0NGU3Y2M0ZDgzNTA3NjBlOTMwMjc1YmFjMzMwOTJkNGE2YmM1YWE4NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p4GYoMct_bitdtqoGH0WOXCzMMmK8v3kVS2mOPrNDZ4"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/ice-cream.png"
   },
   {
     "CardId": 5,
     "Points": 15,
     "Name": "Mushroom",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478457-b7cf8dc9-a804-47be-b465-28b722935a3f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ2MDUsIm5iZiI6MTc1MzIyNDMwNSwicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NTctYjdjZjhkYzktYTgwNC00N2JlLWI0NjUtMjhiNzIyOTM1YTNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxZDI4MDJiZmY2NDgzYjdmYzM1YTRhYWVkYmJmMDkyNTFkNWI1MzllMjg2NzQ4MDJkNGQyMzAzMDUyODViNWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YotTyfXX-iwkqH4hA5Nt1NtS0fa4neIMisnZs7yEa8s"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/mushroom.png"
   },
   {
     "CardId": 6,
     "Points": 15,
     "Name": "Parrot",
-    "SpritePathOrURL": "https://private-user-images.githubusercontent.com/23552173/469478445-b1239f25-54ee-49a1-8eb4-930cc3e76689.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMjQ1NTcsIm5iZiI6MTc1MzIyNDI1NywicGF0aCI6Ii8yMzU1MjE3My80Njk0Nzg0NDUtYjEyMzlmMjUtNTRlZS00OWExLThlYjQtOTMwY2MzZTc2Njg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDIyNDQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhNjgzODA4NTRjNzVmNzYxZmQwZTNmYTM4NDU5ZjlkZDFkZDQzMzYwZDk3YWE5YTMyNTEwY2IzM2ZkNzViMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HG8-fWgcMgv-WBWVBHwsbIHLIcP7ybBOAuUqJDMWigA"
+    "SpritePathOrURL": "https://raw.githubusercontent.com/Akin-Erkan/TouristGuideAIAssetBundle/main/CardIcons/parrot.png"
   }
 ]
