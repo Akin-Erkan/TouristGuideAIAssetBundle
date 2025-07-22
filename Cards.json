@@ -1,0 +1,44 @@
+[
+  {
+    "CardId": 1,
+    "Points": 10,
+    "Name": "Apple",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/apple.png"
+  },
+  {
+    "CardId": 2,
+    "Points": 15,
+    "Name": "Bell",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/bell.png"
+  },
+  {
+    "CardId": 2,
+    "Points": 15,
+    "Name": "Cherry",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/Cherry.png"
+  },
+  {
+    "CardId": 3,
+    "Points": 15,
+    "Name": "Dolphin",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/Dolphin.png"
+  },
+  {
+    "CardId": 4,
+    "Points": 15,
+    "Name": "Ice-cream",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/ice-cream.png"
+  },
+  {
+    "CardId": 5,
+    "Points": 15,
+    "Name": "Mushroom",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/mushroom.png"
+  },
+  {
+    "CardId": 6,
+    "Points": 15,
+    "Name": "Parrot",
+    "SpritePathOrURL": "https://raw.githubusercontent.com/{kendi-kullanıcı-adın}/{repo-adi}/main/sprites/parrot.png"
+  }
+]
